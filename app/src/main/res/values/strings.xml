@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DocLock</string>
+    <string name="msgLoginToDocLock">Login to DocLock</string>
+    <string name="titleWelcomeActivity">DocLock - Welcome</string>
+    <string name="titleLoginActivity">DocLock - Login</string>
+    <string name="hint_AL_ET_Password">Password</string>
+    <string name="AL_btnLogin">GO</string>
+    <string name="AppErrorMessage">Something went wrong</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="RegistrationAct">Registration Activity</string>
+    <string name="WelcomeAct">Welcome Activity</string>
+    <string name="hint_AR_ET_Username">Your Name</string>
+    <string name="AR_cboxAuthType">4-Digit Pin Code</string>
+    <string name="hint_AR_ET_Password">Password</string>
+    <string name="AR_btnSaveUser">Register</string>
+    <string name="hint_AR_ET_PinCode">Pincode</string>
+</resources>
